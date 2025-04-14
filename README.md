@@ -137,5 +137,5 @@ Copyright ©‎ 2014 - 2017, Ian Kent (http://iankent.uk)
 
 Released under MIT license, see [LICENSE](https://github.com/QubitPi/MailHog/blob/master/LICENSE.md) for details.
 
-[Docker Pulls Badge]: https://img.shields.io/docker/pulls/jack20191124/mailhog?style=for-the-badge&logo=docker&color=2596EC
-[Docker Hub URL]: https://hub.docker.com/r/jack20191124/mailhog
+[Docker Pulls Badge]: https://img.shields.io/docker/pulls/paiondatahub/mailhog?style=for-the-badge&logo=docker&color=2596EC
+[Docker Hub URL]: https://hub.docker.com/r/paiondatahub/mailhog
