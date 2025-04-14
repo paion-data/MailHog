@@ -73,3 +73,26 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
           repository: jack20191124/mailhog
           readme-filepath: README.md
+
+  documentation:
+    permissions:
+      contents: write
+    name: Deploy Docs to GitHub Pages
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use README as the index page
+        run: |
+          cp README.md docs
+          sed -i 's/\/docs\///g' docs/README.md
+          sed -i 's/docs\///g' docs/README.md
+      - name: Build with mkdocs-material via Docker
+        run: '.github/workflows/scripts/docs/build-docs.sh'
+      - name: Deploy to Github Pages
+        uses: peaceiris/actions-gh-pages@v4.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          user_name: ${{ env.GIT_USER }}
+          user_email: ${{ env.GIT_EMAIL }}
+          cname: mailhog.qubitpi.org
