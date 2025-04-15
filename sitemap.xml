@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mailhog.paion-data.dev/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/APIv1/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/APIv2/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/Auth/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/BUILD/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/CONFIG/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/DEPLOY/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/JIM/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/LIBRARIES/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
     <url>
          <loc>https://mailhog.paion-data.dev/RELEASES/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-15</lastmod>
     </url>
 </urlset>
