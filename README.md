@@ -136,10 +136,10 @@ If you make any changes, run ```go fmt ./...``` before submitting a pull request
 
 Copyright ©‎ 2014 - 2017, Ian Kent (http://iankent.uk)
 
-Released under MIT license, see [LICENSE](https://github.com/QubitPi/MailHog/blob/master/LICENSE.md) for details.
+Released under MIT license, see [LICENSE](https://github.com/paion-data/MailHog/blob/master/LICENSE.md) for details.
 
-[Docker Pulls Badge]: https://img.shields.io/docker/pulls/jack20191124/mailhog?style=for-the-badge&logo=docker&color=2596EC
-[Docker Hub URL]: https://hub.docker.com/r/jack20191124/mailhog
+[Docker Pulls Badge]: https://img.shields.io/docker/pulls/paiondatahub/mailhog?style=for-the-badge&logo=docker&color=2596EC
+[Docker Hub URL]: https://hub.docker.com/r/paiondatahub/mailhog
 
 [LinuxServer Doc Badge]: https://img.shields.io/badge/Docker-Documentation-DA3B8A?style=for-the-badge&logo=linuxserver&logoColor=white
-[LinuxServer Doc URL]: https://linuxserver.qubitpi.org/images/docker-mailhog/
+[LinuxServer Doc URL]: https://linuxserver.paion-data.dev/images/docker-mailhog/

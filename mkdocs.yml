@@ -6,7 +6,7 @@ repo_name: 'MailHog'
 repo_url: 'https://github.com/QubitPi/MailHog'
 edit_uri: 'edit/master/docs'
 docs_dir: 'docs'
-site_url: 'https://mailhog.qubitpi.org'
+site_url: 'https://mailhog.paion-data.dev'
 
 theme:
   name: 'material'
