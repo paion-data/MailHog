@@ -2,6 +2,7 @@ MailHog [ ![Download](https://img.shields.io/github/release/mailhog/MailHog.svg)
 =========
 
 [![Docker Hub][Docker Pulls Badge]][Docker Hub URL]
+[![LinuxServer Doc Badge][LinuxServer Doc Badge]][LinuxServer Doc URL]
 
 Inspired by [MailCatcher](https://mailcatcher.me/), easier to install.
 
@@ -139,3 +140,6 @@ Released under MIT license, see [LICENSE](https://github.com/QubitPi/MailHog/blo
 
 [Docker Pulls Badge]: https://img.shields.io/docker/pulls/jack20191124/mailhog?style=for-the-badge&logo=docker&color=2596EC
 [Docker Hub URL]: https://hub.docker.com/r/jack20191124/mailhog
+
+[LinuxServer Doc Badge]: https://img.shields.io/badge/Docker-Documentation-DA3B8A?style=for-the-badge&logo=linuxserver&logoColor=white
+[LinuxServer Doc URL]: https://linuxserver.qubitpi.org/images/docker-mailhog/
